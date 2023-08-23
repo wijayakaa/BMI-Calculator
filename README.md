@@ -1,7 +1,7 @@
 # BMI-Calculator - Baratha-wijaya
 Tugas flutter Kalkulator BMI Baratha wijaya 23 AGUSTUS 2023
 
-- Tugas Flutter pertama ini adalah permulaan,benahi terus skillmu,supaya lebih baik.
+- Tugas Flutter ini adalah permulaan,benahi terus skillmu,supaya lebih baik.
 
 Aplikasi movie sederhana yang saya buat dengan Login dan list film favorit saya
 
